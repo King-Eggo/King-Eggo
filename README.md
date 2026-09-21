@@ -1,4 +1,8 @@
-# <pre>quu..__
+# Hi there, I'm Michael.
+
+Building, breaking, and securing networks & systems.
+
+quu..__
  $$$b  `---.__
   "$$b        `--.                          ___.---uuudP
    `$$b           `.__.------.__     __.---'      $$$$"              .
@@ -36,7 +40,5 @@
                |   .:::------------\       /
               /   .''               >::'  /
               `',:                 :    .'
-                                   `:.:' Tim Park</pre>
+                                   `:.:' Tim Park
 
-
-Building, breaking, and securing networks & systems.
