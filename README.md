@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "While children are struggling to be unique, the world around them is trying all means to make them look like everybody else." — *Abdul Kalam*
+> "It Does Not Do To Dwell On Dreams And Forget To Live." — *J. K. Rowling*
 <!-- QUOTE_END -->
