@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "It Does Not Do To Dwell On Dreams And Forget To Live." — *J. K. Rowling*
+> "Often It Does Seem A Pity That Noah And His Party Did Not Miss The Boat." — *Mark Twain*
 <!-- QUOTE_END -->
