@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Often It Does Seem A Pity That Noah And His Party Did Not Miss The Boat." — *Mark Twain*
+> "If you only say one prayer in a day make it Thank You." — *Rumi*
 <!-- QUOTE_END -->
