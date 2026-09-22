@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Stay hungry, stay foolish." - Steve Jobs
+> "While children are struggling to be unique, the world around them is trying all means to make them look like everybody else." — *Abdul Kalam*
 <!-- QUOTE_END -->
