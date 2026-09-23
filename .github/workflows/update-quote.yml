@@ -33,10 +33,17 @@ jobs:
           python3 -c "
           import re
 
+          author = '''${RAW_AUTHOR}'''
+          formatted_line = '''${FORMATTED_LINE}'''
+
+          # Replace J.K. Rowling quotes with a fallback default
+          if 'j.k. rowling' in author.lower() or 'jk rowling' in author.lower():
+              formatted_line = '> \"First, solve the problem. Then, write the code.\" — *John Johnson*'
+
           with open('README.md', 'r') as f:
               content = f.read()
 
-          replacement = '<!-- QUOTE_START -->\n' + '''${FORMATTED_LINE}''' + '\n<!-- QUOTE_END -->'
+          replacement = '<!-- QUOTE_START -->\n' + formatted_line + '\n<!-- QUOTE_END -->'
           pattern = r'<!-- QUOTE_START -->.*?<!-- QUOTE_END -->'
 
           new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
