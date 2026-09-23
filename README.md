@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "If you only say one prayer in a day make it Thank You." — *Rumi*
+> "To speak less is wisdom, to eat less is healthy, and to mingle less with te people is safe and serene." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
