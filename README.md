@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Only last week I murdered a rock, injured a stone and hospitalized a brick." — *Muhammad Ali*
+> "He That Can Have Patience Can Have What He Will." — *Benjamin Franklin*
 <!-- QUOTE_END -->
