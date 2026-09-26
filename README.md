@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "He That Can Have Patience Can Have What He Will." — *Benjamin Franklin*
+> "If You Like Your Brother And He'S Prospering, You'Ll Be Pleased For Him." — *Hamad Bin Isa Al Khalifa*
 <!-- QUOTE_END -->
