@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "If You Like Your Brother And He'S Prospering, You'Ll Be Pleased For Him." — *Hamad Bin Isa Al Khalifa*
+> "Let us sacrifice our today so that our children can have a better tomorrow." — *Abdul Kalam*
 <!-- QUOTE_END -->
