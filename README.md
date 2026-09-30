@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Joy In Looking And Comprehending Is Nature'S Most Beautiful Gift." — *Albert Einstein*
+> "All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child." — *Marie Curie*
 <!-- QUOTE_END -->
