@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child." — *Marie Curie*
+> "What Do I Wear In Bed? Why, Chanel No. 5, Of Course." — *Marilyn Monroe*
 <!-- QUOTE_END -->
