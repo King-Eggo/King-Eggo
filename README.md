@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "What Do I Wear In Bed? Why, Chanel No. 5, Of Course." — *Marilyn Monroe*
+> "Anything That Won'T Sell, I Don'T Want To Invent. Its Sale Is Proof Of Utility, And Utility Is Success." — *Thomas A. Edison*
 <!-- QUOTE_END -->
