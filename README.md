@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "There's no one with intelligence in this town except that man over there playing with the children, the one riding the stick horse. He has keen, fiery insight and vast dignity like the night sky, but he conceals it in the madness of child's play." — *Rumi*
+> "Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity." — *Abdul Kalam*
 <!-- QUOTE_END -->
