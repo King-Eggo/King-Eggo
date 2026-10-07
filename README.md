@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Authority, power, and wealth do not change a man; they only reveal him." — *Ali ibn Abi Talib (R.A)*
+> "You Don'T Have To Be Great To Start, But You Have To Start To Be Great" — *Zig Ziglar*
 <!-- QUOTE_END -->
