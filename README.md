@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "To speak less is wisdom, to eat less is healthy, and to mingle less with te people is safe and serene." — *Umar ibn Al-Khattāb (R.A)*
+> "Feet, What Do I Need You For When I Have Wings To Fly?" — *Frida Kahlo*
 <!-- QUOTE_END -->
