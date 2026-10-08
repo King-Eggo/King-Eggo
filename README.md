@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "You Don'T Have To Be Great To Start, But You Have To Start To Be Great" — *Zig Ziglar*
+> "Feet, What Do I Need You For When I Have Wings To Fly?" — *Frida Kahlo*
 <!-- QUOTE_END -->
