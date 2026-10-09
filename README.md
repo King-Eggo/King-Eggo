@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Feet, What Do I Need You For When I Have Wings To Fly?" — *Frida Kahlo*
+> "Champions Keep Playing Until They Get It Right." — *Billie Jean King*
 <!-- QUOTE_END -->
