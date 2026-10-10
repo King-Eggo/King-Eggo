@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Champions Keep Playing Until They Get It Right." — *Billie Jean King*
+> "I want to sing like the birds sing, not worrying about who hears or what they think." — *Rumi*
 <!-- QUOTE_END -->
