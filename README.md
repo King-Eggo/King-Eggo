@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "I want to sing like the birds sing, not worrying about who hears or what they think." — *Rumi*
+> "Loyalty To The Country Always. Loyalty To The Government When It Deserves It." — *Mark Twain*
 <!-- QUOTE_END -->
