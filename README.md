@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Loyalty To The Country Always. Loyalty To The Government When It Deserves It." — *Mark Twain*
+> "Fear him, whom you hate." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
