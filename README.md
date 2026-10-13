@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Fear him, whom you hate." — *Umar ibn Al-Khattāb (R.A)*
+> "Russia Is A Riddle Wrapped In A Mystery Inside An Enigma." — *Winston Churchill*
 <!-- QUOTE_END -->
