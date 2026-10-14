@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Russia Is A Riddle Wrapped In A Mystery Inside An Enigma." — *Winston Churchill*
+> "With God In Charge, I Believe Everything Will Work Out For The Best In The End." — *Henry Ford*
 <!-- QUOTE_END -->
