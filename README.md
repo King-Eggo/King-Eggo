@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "With God In Charge, I Believe Everything Will Work Out For The Best In The End." — *Henry Ford*
+> "Gliders, Sail Planes, They'Re Wonderful Flying Machines. It'S The Closest You Can Come To Being A Bird." — *Neil Armstrong*
 <!-- QUOTE_END -->
