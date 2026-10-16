@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Gliders, Sail Planes, They'Re Wonderful Flying Machines. It'S The Closest You Can Come To Being A Bird." — *Neil Armstrong*
+> "It Is Not Best That We Should All Think Alike; It Is A Difference Of Opinion That Makes Horse Races." — *Mark Twain*
 <!-- QUOTE_END -->
