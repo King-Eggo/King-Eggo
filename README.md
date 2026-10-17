@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "It Is Not Best That We Should All Think Alike; It Is A Difference Of Opinion That Makes Horse Races." — *Mark Twain*
+> "If You Judge People, You Have No Time To Love Them." — *Mother Teresa*
 <!-- QUOTE_END -->
