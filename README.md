@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "If You Judge People, You Have No Time To Love Them." — *Mother Teresa*
+> "Live amongst people in such a manner that if you die they weep over you and if you are alive they crave for your company." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
