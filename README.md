@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Live amongst people in such a manner that if you die they weep over you and if you are alive they crave for your company." — *Ali ibn Abi Talib (R.A)*
+> "The bird is powered by its own life and by its motivation." — *Abdul Kalam*
 <!-- QUOTE_END -->
