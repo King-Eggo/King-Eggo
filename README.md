@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "The bird is powered by its own life and by its motivation." — *Abdul Kalam*
+> "The Roots Of Education Are Bitter, But The Fruit Is Sweet." — *Aristotle*
 <!-- QUOTE_END -->
