@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "The Roots Of Education Are Bitter, But The Fruit Is Sweet." — *Aristotle*
+> "A Nation That Continues Year After Year To Spend More Money On Military Defense Than On Programs Of Social Uplift Is Approaching Spiritual Doom." — *Martin Luther King  Jr.*
 <!-- QUOTE_END -->
