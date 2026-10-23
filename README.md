@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Whoever Is Happy Will Make Others Happy Too." — *Anne Frank*
+> "Achieving Life Is Not The Equivalent Of Avoiding Death." — *Ayn Rand*
 <!-- QUOTE_END -->
