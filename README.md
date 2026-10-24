@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Achieving Life Is Not The Equivalent Of Avoiding Death." — *Ayn Rand*
+> "You Don'T Have To See The Whole Staircase, Just Take The First Step." — *Martin Luther King  Jr.*
 <!-- QUOTE_END -->
