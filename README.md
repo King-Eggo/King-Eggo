@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "You Don'T Have To See The Whole Staircase, Just Take The First Step." — *Martin Luther King  Jr.*
+> "Be patient; patience is a pillar of faith." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
