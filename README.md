@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Be patient; patience is a pillar of faith." — *Umar ibn Al-Khattāb (R.A)*
+> "Let'S Pray That The Human Race Never Escapes From Earth To Spread Its Iniquity Elsewhere." — *C. S. Lewis*
 <!-- QUOTE_END -->
