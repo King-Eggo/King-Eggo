@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Let'S Pray That The Human Race Never Escapes From Earth To Spread Its Iniquity Elsewhere." — *C. S. Lewis*
+> "The Criminal Is Trying To Solve His Immediate Problems." — *Naguib Mahfouz*
 <!-- QUOTE_END -->
