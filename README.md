@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "The Criminal Is Trying To Solve His Immediate Problems." — *Naguib Mahfouz*
+> "These Capitalists Generally Act Harmoniously And In Concert, To Fleece The People." — *Abraham Lincoln*
 <!-- QUOTE_END -->
