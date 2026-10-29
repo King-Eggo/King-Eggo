@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "These Capitalists Generally Act Harmoniously And In Concert, To Fleece The People." — *Abraham Lincoln*
+> "Man Is Still The Most Extraordinary Computer Of All." — *John F. Kennedy*
 <!-- QUOTE_END -->
