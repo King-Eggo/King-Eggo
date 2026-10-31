@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "I'm a fighter. I believe in the eye-for-an-eye business. I'm no cheek turner. I got no respect for a man who won't hit back. You kill my dog, you better hide your cat." — *Muhammad Ali*
+> "Greed is permanent slavery." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
