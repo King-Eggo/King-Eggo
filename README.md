@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Greed is permanent slavery." — *Ali ibn Abi Talib (R.A)*
+> "My Father Always Told Me That All Businessmen Were Sons Of Bitches, But I Never Believed It Till Now." — *John F. Kennedy*
 <!-- QUOTE_END -->
