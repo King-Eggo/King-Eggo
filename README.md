@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "If anybody seeks your advice, offer right and sincere advice." — *Abu Bakr (R.A)*
+> "To Lengthen Thy Life, Lessen Thy Meals." — *Benjamin Franklin*
 <!-- QUOTE_END -->
