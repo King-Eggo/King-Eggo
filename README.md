@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Before Marriage, A Girl Has To Make Love To A Man To Hold Him. After Marriage, She Has To Hold Him To Make Love To Him." — *Marilyn Monroe*
+> "Recitation of the Qur'an without contemplation and thought is futile." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
