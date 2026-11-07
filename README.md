@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Recitation of the Qur'an without contemplation and thought is futile." — *Ali ibn Abi Talib (R.A)*
+> "If you are irritated by every rub, how will your mirror be polished?" — *Rumi*
 <!-- QUOTE_END -->
