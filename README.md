@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "If you are irritated by every rub, how will your mirror be polished?" — *Rumi*
+> "Whenever you are alone, remind yourself that God has sent everyone else away so that there is only you and Him." — *Rumi*
 <!-- QUOTE_END -->
