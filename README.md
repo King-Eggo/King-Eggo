@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Whenever you are alone, remind yourself that God has sent everyone else away so that there is only you and Him." — *Rumi*
+> "The Hardest Thing To Understand In The World Is The Income Tax." — *Albert Einstein*
 <!-- QUOTE_END -->
