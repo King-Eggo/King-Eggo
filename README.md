@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Music Expresses That Which Cannot Be Put Into Words." — *Victor Hugo*
+> "Kindness Is The Language Which The Deaf Can Hear And The Blind Can See." — *Mark Twain*
 <!-- QUOTE_END -->
