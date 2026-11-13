@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Kindness Is The Language Which The Deaf Can Hear And The Blind Can See." — *Mark Twain*
+> "A Good Head And A Good Heart Are Always A Formidable Combination." — *Nelson Mandela*
 <!-- QUOTE_END -->
