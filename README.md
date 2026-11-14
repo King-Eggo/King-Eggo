@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "A Good Head And A Good Heart Are Always A Formidable Combination." — *Nelson Mandela*
+> "If You Would Have A Faithful Servant, And One That You Like, Serve Yourself." — *Benjamin Franklin*
 <!-- QUOTE_END -->
