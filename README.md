@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "If You Would Have A Faithful Servant, And One That You Like, Serve Yourself." — *Benjamin Franklin*
+> "Be Brave. Take Risks. Nothing Can Substitute Experience." — *Paulo Coelho*
 <!-- QUOTE_END -->
