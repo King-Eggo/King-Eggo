@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Be Brave. Take Risks. Nothing Can Substitute Experience." — *Paulo Coelho*
+> "A Lot Of People Quit Looking For Work As Soon As They Find A Job." — *Zig Ziglar*
 <!-- QUOTE_END -->
