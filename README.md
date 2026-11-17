@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "A Lot Of People Quit Looking For Work As Soon As They Find A Job." — *Zig Ziglar*
+> "Don'T Go Around Saying The World Owes You A Living. The World Owes You Nothing. It Was Here First." — *Mark Twain*
 <!-- QUOTE_END -->
