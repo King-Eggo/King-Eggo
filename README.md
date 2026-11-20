@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Being The Richest Man In The Cemetery Doesn'T Matter To Me. Going To Bed At Night Saying We'Ve Done Something Wonderful, That'S What Matters To Me." — *Steve Jobs*
+> "The Roots Of Education Are Bitter, But The Fruit Is Sweet." — *Aristotle*
 <!-- QUOTE_END -->
