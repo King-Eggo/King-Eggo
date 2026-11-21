@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "The Roots Of Education Are Bitter, But The Fruit Is Sweet." — *Aristotle*
+> "When we practice loving kindness and compassion we are the first ones to profit." — *Rumi*
 <!-- QUOTE_END -->
