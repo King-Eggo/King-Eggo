@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "When we practice loving kindness and compassion we are the first ones to profit." — *Rumi*
+> "One May Sometimes Tell A Lie, But The Grimace That Accompanies It Tells The Truth." — *Friedrich Nietzsche*
 <!-- QUOTE_END -->
