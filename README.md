@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "One May Sometimes Tell A Lie, But The Grimace That Accompanies It Tells The Truth." — *Friedrich Nietzsche*
+> "We Make Up Horrors To Help Us Cope With The Real Ones." — *Stephen King*
 <!-- QUOTE_END -->
