@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "We Make Up Horrors To Help Us Cope With The Real Ones." — *Stephen King*
+> "You have been a prisoner of a little pond I am the ocean and its turbulent flood Come merge with me leave this world of ignorance." — *Rumi*
 <!-- QUOTE_END -->
