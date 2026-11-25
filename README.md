@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "You have been a prisoner of a little pond I am the ocean and its turbulent flood Come merge with me leave this world of ignorance." — *Rumi*
+> "Thunder Is Good, Thunder Is Impressive; But It Is Lightning That Does The Work." — *Mark Twain*
 <!-- QUOTE_END -->
