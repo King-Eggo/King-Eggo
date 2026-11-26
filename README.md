@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Thunder Is Good, Thunder Is Impressive; But It Is Lightning That Does The Work." — *Mark Twain*
+> "Think Of All The Beauty Still Left Around You And Be Happy." — *Anne Frank*
 <!-- QUOTE_END -->
