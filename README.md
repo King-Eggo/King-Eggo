@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "Think Of All The Beauty Still Left Around You And Be Happy." — *Anne Frank*
+> "God, our Creator, has stored within our minds and personalities, great potential strength and ability. Prayer helps us tap and develop these powers." — *Abdul Kalam*
 <!-- QUOTE_END -->
