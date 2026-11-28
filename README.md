@@ -16,5 +16,5 @@ Building, breaking, and securing networks & systems.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠐⠺⢛⣶⣞⡫⠋⠀⠀⠀⠀⠀⠀⠀</pre>
 
 <!-- QUOTE_START -->
-> "God, our Creator, has stored within our minds and personalities, great potential strength and ability. Prayer helps us tap and develop these powers." — *Abdul Kalam*
+> "Like Getting Into A Bleeding Competition With A Blood Bank." — *Richard Branson*
 <!-- QUOTE_END -->
